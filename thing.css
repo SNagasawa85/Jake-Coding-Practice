@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* # is used for id */
+#firstP {
+  background-color: blanchedalmond;
+}
+
+p {
+  margin-top: 25px;
+  background-color: rgb(149, 114, 230);
+}
+
+h2 {
+  color: violet;
+}
+
+li {
+  margin-top: 25px;
+}
+
+/* . is used for class */
+.topHeader {
+  color: red;
+  background-color: aqua;
+}
+
+h1 {
+  color: purple;
+}
+

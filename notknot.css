@@ -1,0 +1,21 @@
+.title {
+  font-weight: bolder;
+  color: red;
+  text-decoration: underline;
+  font-size: 45pt;
+}
+
+.list_title {
+  font-size: 20pt;
+  color: blue;
+  text-decoration: dotted;
+  font-weight: bold;
+}
+
+.item {
+  font-size: 16pt;
+  text-decoration: underline;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+}
